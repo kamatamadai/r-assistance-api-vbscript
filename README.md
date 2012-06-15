@@ -20,10 +20,12 @@
 * 制度の概要が記述されたXMLファイル 『SupportSummaries_(連番).xml』
 
 3.『終了しました』と表示されたら、[完了]です。![画像1](https://github.com/kamatamadai/r-assistance-api-vbscript/blob/master/GetSummaries2Csv/captureResults.PNG "画像のタイトル")[処理結果][PNGFile]
-[VBSFile]: https://github.com/kamatamadai/r-assistance-api-vbscript/blob/master/GetSummaries2Csv/GetSummaries2Csv.vbs
-[CSVFile]: https://github.com/kamatamadai/r-assistance-api-vbscript/blob/master/GetSummaries2Csv/SupportSummaries.csv
 
 4.出力されたCSVファイルは、Excelで開くときに警告は出ますが正常に表示されるはずです。
+
+[VBSFile]: https://github.com/kamatamadai/r-assistance-api-vbscript/blob/master/GetSummaries2Csv/GetSummaries2Csv.vbs
+[CSVFile]: https://github.com/kamatamadai/r-assistance-api-vbscript/blob/master/GetSummaries2Csv/SupportSummaries.csv
+[CapFile]: https://github.com/kamatamadai/r-assistance-api-vbscript/blob/master/GetSummaries2Csv/captureResults.PNG
 
 ライセンス
 ----------
