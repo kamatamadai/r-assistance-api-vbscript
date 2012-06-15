@@ -1,33 +1,33 @@
-•œ‹ŒE•œ‹»Žx‰‡§“xƒf[ƒ^ƒx[ƒXAPI‚ð‘€ì‚·‚éVBScript
+å¾©æ—§ãƒ»å¾©èˆˆæ”¯æ´åˆ¶åº¦ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹APIã‚’æ“ä½œã™ã‚‹VBScript
 ======================
-[•œ‹ŒE•œ‹»Žx‰‡§“xƒf[ƒ^ƒx[ƒXAPI][fukkouAPI]‚ðŽg—p‚µ‚½ƒTƒ“ƒvƒ‹‚ðVBScript‚Åì‚Á‚Ä‚Ý‚Ü‚µ‚½B
+[å¾©æ—§ãƒ»å¾©èˆˆæ”¯æ´åˆ¶åº¦ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹API][fukkouAPI]ã‚’ä½¿ç”¨ã—ãŸã‚µãƒ³ãƒ—ãƒ«ã‚’VBScriptã§ä½œã£ã¦ã¿ã¾ã—ãŸã€‚
 [fukkouAPI]: http://www.r-assistance.go.jp/about_api.aspx
 
-ƒTƒ“ƒvƒ‹‚Ì“à—e
+ã‚µãƒ³ãƒ—ãƒ«ã®å†…å®¹
 ------
 ## GetSummaries2Csv ##
-•œ‹ŒE•œ‹»Žx‰‡§“x‚Ì‘SŠT—v‚ðŽæ“¾‚µACSVƒtƒ@ƒCƒ‹‚Éo—Í‚·‚éVBScript‚Å‚·B
+å¾©æ—§ãƒ»å¾©èˆˆæ”¯æ´åˆ¶åº¦ã®å…¨æ¦‚è¦ã‚’å–å¾—ã—ã€CSVãƒ•ã‚¡ã‚¤ãƒ«ã«å‡ºåŠ›ã™ã‚‹VBScriptã§ã™ã€‚
 
-### Žg‚¢•û ###
-1. [GetSummaries2Csv.vbs][VBSFile]‚ðA‚²Ž©•ª‚ÌPC‚Ì“K“–‚ÈƒtƒHƒ‹ƒ_‚ÉƒRƒs[‚µ‚Ü‚·B
+### ä½¿ã„æ–¹ ###
+1. [GetSummaries2Csv.vbs][VBSFile]ã‚’ã€ã”è‡ªåˆ†ã®PCã®é©å½“ãªãƒ•ã‚©ãƒ«ãƒ€ã«ã‚³ãƒ”ãƒ¼ã—ã¾ã™ã€‚
 
-2.ƒRƒ}ƒ“ƒhƒvƒƒ“ƒvƒg‚ð‹N“®‚µAƒRƒ}ƒ“ƒhƒvƒƒ“ƒvƒg‚©‚çwcscript //nologo GetSummaries2Csv.vbsx‚Æ“ü—Í‚µ‚ÄŽÀs‚µ‚Ü‚·B
+2.ã‚³ãƒžãƒ³ãƒ‰ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆã‚’èµ·å‹•ã—ã€ã‚³ãƒžãƒ³ãƒ‰ãƒ—ãƒ­ãƒ³ãƒ—ãƒˆã‹ã‚‰ã€Žcscript //nologo GetSummaries2Csv.vbsã€ã¨å…¥åŠ›ã—ã¦å®Ÿè¡Œã—ã¾ã™ã€‚
 
-3.wGetSummaries2Csv.vbsx‚ª‘¶Ý‚·‚éƒtƒHƒ‹ƒ_‚ÉAˆÈ‰º‚Ìƒtƒ@ƒCƒ‹‚ªo—Í‚³‚ê‚Ü‚·B
-* ˆ—Œ‹‰ÊCSVƒtƒ@ƒCƒ‹ wSupportSummaries.csvx[Link][CSVFile]
-* ’n•ûŒö‹¤’c‘ÌiƒR[ƒh‚¨‚æ‚Ñ–¼Ìj‚ª‹Lq‚³‚ê‚½XMLƒtƒ@ƒCƒ‹ wMunicipalities_(“s“¹•{Œ§ƒR[ƒhA01`47).xmlx
-* §“x‚ÌID‚ª‹Lq‚³‚ê‚½XMLƒtƒ@ƒCƒ‹ wSupportInformations_(˜A”Ô).xmlx
-* §“x‚ÌŠT—v‚ª‹Lq‚³‚ê‚½XMLƒtƒ@ƒCƒ‹ wSupportSummaries_(˜A”Ô).xmlx
+3.ã€ŽGetSummaries2Csv.vbsã€ãŒå­˜åœ¨ã™ã‚‹ãƒ•ã‚©ãƒ«ãƒ€ã«ã€ä»¥ä¸‹ã®ãƒ•ã‚¡ã‚¤ãƒ«ãŒå‡ºåŠ›ã•ã‚Œã¾ã™ã€‚
+* å‡¦ç†çµæžœCSVãƒ•ã‚¡ã‚¤ãƒ« ã€ŽSupportSummaries.csvã€[Link][CSVFile]
+* åœ°æ–¹å…¬å…±å›£ä½“ï¼ˆã‚³ãƒ¼ãƒ‰ãŠã‚ˆã³åç§°ï¼‰ãŒè¨˜è¿°ã•ã‚ŒãŸXMLãƒ•ã‚¡ã‚¤ãƒ« ã€ŽMunicipalities_(éƒ½é“åºœçœŒã‚³ãƒ¼ãƒ‰ã€01ï½ž47).xmlã€
+* åˆ¶åº¦ã®IDãŒè¨˜è¿°ã•ã‚ŒãŸXMLãƒ•ã‚¡ã‚¤ãƒ« ã€ŽSupportInformations_(é€£ç•ª).xmlã€
+* åˆ¶åº¦ã®æ¦‚è¦ãŒè¨˜è¿°ã•ã‚ŒãŸXMLãƒ•ã‚¡ã‚¤ãƒ« ã€ŽSupportSummaries_(é€£ç•ª).xmlã€
 
-3.wI—¹‚µ‚Ü‚µ‚½x‚Æ•\Ž¦‚³‚ê‚½‚çAŠ®—¹‚Å‚·B![ˆ—Œ‹‰Ê][CapFile]
-
-4.o—Í‚³‚ê‚½CSVƒtƒ@ƒCƒ‹‚ÍAExcel‚ÅŠJ‚­‚Æ‚«‚ÉŒx‚Ío‚Ü‚·‚ª³í‚É•\Ž¦‚³‚ê‚é‚Í‚¸‚Å‚·B
+3.ã€Žçµ‚äº†ã—ã¾ã—ãŸã€ã¨è¡¨ç¤ºã•ã‚ŒãŸã‚‰ã€å®Œäº†ã§ã™ã€‚
+ * ![å‡¦ç†çµæžœ](https://github.com/kamatamadai/r-assistance-api-vbscript/blob/master/GetSummaries2Csv/captureResults.PNG "å‡¦ç†çµæžœ")
+4.å‡ºåŠ›ã•ã‚ŒãŸCSVãƒ•ã‚¡ã‚¤ãƒ«ã¯ã€Excelã§é–‹ãã¨ãã«è­¦å‘Šã¯å‡ºã¾ã™ãŒæ­£å¸¸ã«è¡¨ç¤ºã•ã‚Œã‚‹ã¯ãšã§ã™ã€‚
 
 [VBSFile]: https://github.com/kamatamadai/r-assistance-api-vbscript/blob/master/GetSummaries2Csv/GetSummaries2Csv.vbs
 [CSVFile]: https://github.com/kamatamadai/r-assistance-api-vbscript/blob/master/GetSummaries2Csv/SupportSummaries.csv
-[CapFile]: https://github.com/kamatamadai/r-assistance-api-vbscript/blob/master/GetSummaries2Csv/captureResults.PNG
+[CapFile]: 
 
-ƒ‰ƒCƒZƒ“ƒX
+ãƒ©ã‚¤ã‚»ãƒ³ã‚¹
 ----------
-‹–‘ø‚È‚µ‚ÅAƒ\[ƒX‚Ì‰üC‚âÄ”z•z‚ðs‚¦‚Ü‚·B
+è¨±è«¾ãªã—ã§ã€ã‚½ãƒ¼ã‚¹ã®æ”¹ä¿®ã‚„å†é…å¸ƒã‚’è¡Œãˆã¾ã™ã€‚
 
