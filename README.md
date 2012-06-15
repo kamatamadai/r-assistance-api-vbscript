@@ -19,7 +19,7 @@
 * 制度のIDが記述されたXMLファイル 『SupportInformations_(連番).xml』
 * 制度の概要が記述されたXMLファイル 『SupportSummaries_(連番).xml』
 
-3.『終了しました』と表示されたら、[完了]です。![画像1](https://github.com/kamatamadai/r-assistance-api-vbscript/blob/master/GetSummaries2Csv/captureResults.PNG "画像のタイトル")[処理結果][PNGFile]
+3.『終了しました』と表示されたら、完了です。![処理結果][CapFile]
 
 4.出力されたCSVファイルは、Excelで開くときに警告は出ますが正常に表示されるはずです。
 
