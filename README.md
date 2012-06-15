@@ -14,20 +14,19 @@
 2.コマンドプロンプトを起動し、コマンドプロンプトから『cscript //nologo GetSummaries2Csv.vbs』と入力して実行します。
 
 3.『GetSummaries2Csv.vbs』が存在するフォルダに、以下のファイルが出力されます。
-* 処理結果CSVファイル 『SupportSummaries.csv』[Link][CSVFile]
+* 処理結果CSVファイル 『[SupportSummaries.csv][CSVFile]』
 * 地方公共団体（コードおよび名称）が記述されたXMLファイル 『Municipalities_(都道府県コード、01～47).xml』
 * 制度のIDが記述されたXMLファイル 『SupportInformations_(連番).xml』
 * 制度の概要が記述されたXMLファイル 『SupportSummaries_(連番).xml』
 
 3.『終了しました』と表示されたら、完了です。
- * ![処理結果](https://github.com/kamatamadai/r-assistance-api-vbscript/blob/master/GetSummaries2Csv/captureResults.PNG "処理結果")
+
 4.出力されたCSVファイルは、Excelで開くときに警告は出ますが正常に表示されるはずです。
 
 [VBSFile]: https://github.com/kamatamadai/r-assistance-api-vbscript/blob/master/GetSummaries2Csv/GetSummaries2Csv.vbs
 [CSVFile]: https://github.com/kamatamadai/r-assistance-api-vbscript/blob/master/GetSummaries2Csv/SupportSummaries.csv
-[CapFile]: 
 
 ライセンス
 ----------
+Public Domain
 許諾なしで、ソースの改修や再配布を行えます。
-
